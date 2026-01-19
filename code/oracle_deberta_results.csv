@@ -1,0 +1,163 @@
+review_id,sentence_id,aspect,true_label,pred_label,pred_score,is_correct,text_used
+C5_1_1,C5_1_1,overall satisfaction,Positive,Positive,0.9997,True,attention oily skinned people: this face wash is great.
+C5_1_2:1,C5_1_2,cleansing performance,Neutral,Positive,0.5094,False,i have very oily skin so it is very important to use something that removes all the oil and leaves nothing behind while also not drying the hell out of my skin.
+C5_1_2:2,C5_1_2,moisturizing effect,Neutral,Neutral,0.4805,True,i have very oily skin so it is very important to use something that removes all the oil and leaves nothing behind while also not drying the hell out of my skin.
+C5_1_3:1,C5_1_3,quantity and size,Positive,Positive,0.5032,True,a little goes a long way and the price is right.
+C5_1_3:2,C5_1_3,product value,Positive,Positive,0.9996,True,a little goes a long way and the price is right.
+C5_2_1,C5_2_1,overall satisfaction,Positive,Positive,0.9998,True,this is my absolute go to facial cleanser.
+C5_2_2:1,C5_2_2,cleansing performance,Positive,Positive,0.9993,True,leaves my skin feeling clean but never dried out.
+C5_2_2:2,C5_2_2,moisturizing effect,Positive,Positive,0.9676,True,leaves my skin feeling clean but never dried out.
+C5_2_3,C5_2_3,impact on acne and breakouts,Positive,Neutral,0.9565,False,does not cause my skin to break out.
+C5_2_4,C5_2_4,quantity and size,Positive,Neutral,0.7456,False,a little goes a long way so it lasts quite a while.
+C5_3_1,C5_3_1,overall satisfaction,Positive,Positive,0.9997,True,i live this facial cleanser.
+C5_3_2:1,C5_3_2,texture feel,Positive,Positive,0.9999,True,"it feels so soft with your skin , it does its job pretty well so you feel clean without harming your skin."
+C5_3_2:2,C5_3_2,cleansing performance,Positive,Positive,0.9999,True,"it feels so soft with your skin , it does its job pretty well so you feel clean without harming your skin."
+C5_3_2:3,C5_3_2,skin reaction,Positive,Positive,0.551,True,"it feels so soft with your skin , it does its job pretty well so you feel clean without harming your skin."
+C5_3_3,C5_3_3,overall satisfaction,Positive,Positive,0.9996,True,i've been using it for a year and i love it.
+C5_4_1,C5_4_1,impact on acne and breakouts,Positive,Negative,0.9428,False,i use this everyday and i usually beeak out but with this i do not.
+C5_4_2:1,C5_4_2,texture feel,Positive,Positive,0.9999,True,it goes on great and rinses well.
+C5_4_2:2,C5_4_2,cleansing performance,Positive,Positive,0.9999,True,it goes on great and rinses well.
+C5_4_3,C5_4_3,cleansing performance,Positive,Positive,0.9999,True,it really does the cleansing job well.
+C5_4_4,C5_4_4,moisturizing effect,Positive,Positive,0.9972,True,i swear my face feels lighter it definately moisturizes my face.
+C5_5_1:1,C5_5_1,quantity and size,Positive,Neutral,0.9631,False,"one of my goes too, i love that its a bigger container for daily use, good for sensitive skin, helps a lot with hydration."
+C5_5_1:2,C5_5_1,skin reaction,Positive,Neutral,0.9757,False,"one of my goes too, i love that its a bigger container for daily use, good for sensitive skin, helps a lot with hydration."
+C5_5_1:3,C5_5_1,moisturizing effect,Positive,Positive,0.9778,True,"one of my goes too, i love that its a bigger container for daily use, good for sensitive skin, helps a lot with hydration."
+C5_5_2,C5_5_2,overall satisfaction,Positive,Positive,0.9987,True,top quality for me!
+C5_6_1,C5_6_1,overall satisfaction,Positive,Positive,0.9993,True,this has become my go-to face wash.
+C5_6_2:1,C5_6_2,quantity and size,Positive,Neutral,0.9853,False,"it requires only a tiny amount to create a lather, and it leaves me feeling thoroughly clean and rejuvenated."
+C5_6_2:2,C5_6_2,cleansing performance,Positive,Positive,0.9999,True,"it requires only a tiny amount to create a lather, and it leaves me feeling thoroughly clean and rejuvenated."
+C5_7_1,C5_7_1,overall satisfaction,Positive,Positive,0.9991,True,my favorite face wash.
+C5_7_2,C5_7_2,moisturizing effect,Neutral,Positive,0.9994,False,my skin is a mix of dry and oily and this seems to help.
+C5_7_3:1,C5_7_3,quantity and size,Positive,Positive,0.9474,True,i would recommend getting the biggest bottle because it’s worth it with how long it lasts
+C5_7_3:2,C5_7_3,product value,Positive,Positive,0.9126,True,i would recommend getting the biggest bottle because it’s worth it with how long it lasts
+C5_8_1,C5_8_1,overall satisfaction,Positive,Positive,0.9995,True,this facial wash is so good.
+C5_8_2:1,C5_8_2,cleansing performance,Positive,Positive,0.9994,True,it leaves your skin fill clean and i have had no break outs.
+C5_8_2:2,C5_8_2,impact on acne and breakouts,Positive,Positive,0.9889,True,it leaves your skin fill clean and i have had no break outs.
+C5_8_3,C5_8_3,overall satisfaction,Positive,Positive,0.9994,True,would repurchase again.
+C5_9_1:1,C5_9_1,overall satisfaction,Positive,Positive,0.9991,True,best face wash i love this for acne prone skin and combo skin i have not broke out since
+C5_9_1:2,C5_9_1,impact on acne and breakouts,Positive,Positive,0.993,True,best face wash i love this for acne prone skin and combo skin i have not broke out since
+C5_10_1,C5_10_1,overall satisfaction,Positive,Positive,0.9998,True,i use this everyday.
+C5_10_2,C5_10_2,cleansing performance,Positive,Positive,0.9998,True,i have extreme oily skin and you can feel the cleanliness right away.
+C5_10_3:1,C5_10_3,cleansing performance,Positive,Positive,0.9983,True,it gets the dirt and oil out of pores it doesn't dry skin out.
+C5_10_3:2,C5_10_3,moisturizing effect,Positive,Positive,0.9885,True,it gets the dirt and oil out of pores it doesn't dry skin out.
+C5_10_4:1,C5_10_4,quantity and size,Positive,Positive,0.9996,True,this bottle seem to last long you surely do get money worth
+C5_10_4:2,C5_10_4,product value,Positive,Positive,0.9998,True,this bottle seem to last long you surely do get money worth
+C5_11_1:1,C5_11_1,cleansing performance,Positive,Positive,0.9997,True,"once you start using this product you will feel the difference instantly, you can feel it washing way the dirt of your face and feel it feeling clean and moist at the face time, giving you face a bright appearance"
+C5_11_1:2,C5_11_1,moisturizing effect,Positive,Positive,0.9997,True,"once you start using this product you will feel the difference instantly, you can feel it washing way the dirt of your face and feel it feeling clean and moist at the face time, giving you face a bright appearance"
+C5_12_1,C5_12_1,overall satisfaction,Positive,Positive,0.9999,True,this stuff is great.
+C5_12_2:1,C5_12_2,product value,Positive,Positive,0.9154,True,i’ve always been an expensive face wash girl but times are tough so i gave it a go and it’s perfect!
+C5_12_2:2,C5_12_2,overall satisfaction,Positive,Positive,0.9837,True,i’ve always been an expensive face wash girl but times are tough so i gave it a go and it’s perfect!
+C5_12_3:1,C5_12_3,moisturizing effect,Positive,Neutral,0.5852,False,"doesn’t dry me out, it lathers up so nice, and it doesn’t irritate my sensitive skin."
+C5_12_3:2,C5_12_3,texture feel,Positive,Positive,0.9546,True,"doesn’t dry me out, it lathers up so nice, and it doesn’t irritate my sensitive skin."
+C5_12_3:3,C5_12_3,skin reaction,Positive,Neutral,0.9812,False,"doesn’t dry me out, it lathers up so nice, and it doesn’t irritate my sensitive skin."
+C5_12_4,C5_12_4,overall satisfaction,Positive,Positive,0.9996,True,my new staple.
+C5_13_1:1,C5_13_1,moisturizing effect,Negative,Positive,0.9999,False,perfect everyday face wash and definitely changed my skin from dry to very oily but i think it’s worth it and it lasts from 8 months to a year coming from a person who uses it everyday
+C5_13_1:2,C5_13_1,product value,Positive,Positive,0.9998,True,perfect everyday face wash and definitely changed my skin from dry to very oily but i think it’s worth it and it lasts from 8 months to a year coming from a person who uses it everyday
+C5_13_1:3,C5_13_1,quantity and size,Positive,Positive,0.9956,True,perfect everyday face wash and definitely changed my skin from dry to very oily but i think it’s worth it and it lasts from 8 months to a year coming from a person who uses it everyday
+C5_14_1:1,C5_14_1,overall satisfaction,Positive,Positive,0.9751,True,"i’ve used cerave foaming facial cleanser for a while, and in many ways it’s a solid choice — especially if you deal with oily or combination skin."
+C5_14_2,C5_14_2,cleansing performance,Positive,Positive,0.9995,True,"it foams up nicely, rinses off cleanly, and makes my skin feel fresh without leftover residue."
+C5_14_3,C5_14_3,ingredients quality,Positive,Positive,0.6206,True,"the ceramides, hyaluronic acid, and niacinamide help keep my skin barrier balanced and not overly stripped."
+C5_15_1:1,C5_15_1,overall satisfaction,Positive,Positive,0.9982,True,cerave is the cleanser i always use — this is already my second bottle and it lasts a long time.
+C5_15_1:2,C5_15_1,quantity and size,Positive,Positive,0.8921,True,cerave is the cleanser i always use — this is already my second bottle and it lasts a long time.
+C5_15_2:1,C5_15_2,skin reaction,Positive,Neutral,0.7323,False,"it’s very gentle, has no scent, and works really well for my dry skin."
+C5_15_2:3,C5_15_2,moisturizing effect,Positive,Positive,0.8996,True,"it’s very gentle, has no scent, and works really well for my dry skin."
+C5_15_3:1,C5_15_3,texture feel,Positive,Positive,0.513,True,"the texture is a bit gel-like, so it doesn’t irritate or leave my skin feeling tight."
+C5_15_3:2,C5_15_3,skin reaction,Positive,Neutral,0.6712,False,"the texture is a bit gel-like, so it doesn’t irritate or leave my skin feeling tight."
+C5_15_3:3,C5_15_3,moisturizing effect,Positive,Positive,0.5144,True,"the texture is a bit gel-like, so it doesn’t irritate or leave my skin feeling tight."
+C5_15_4:1,C5_15_4,cleansing performance,Positive,Positive,0.9999,True,i really like it and it keeps my skin feeling clean and comfortable
+C5_15_4:2,C5_15_4,overall satisfaction,Positive,Positive,0.9998,True,i really like it and it keeps my skin feeling clean and comfortable
+C5_16_1:1,C5_16_1,ingredients quality,Positive,Positive,0.9418,True,i love that this is a clean product for such a cheap price.
+C5_16_1:2,C5_16_1,product value,Positive,Positive,0.9983,True,i love that this is a clean product for such a cheap price.
+C5_16_2:2,C5_16_2,cleansing performance,Positive,Positive,0.9999,True,it removes my make up easily also is good for getting off sunscreen.’
+C5_18_1:1,C5_18_1,skin reaction,Negative,Negative,0.8996,True,"i have sensitive, allergy prone skin that likes to break out of the slightest provocation."
+C5_18_2:1,C5_18_2,moisturizing effect,Positive,Positive,0.5877,True,"a lot of the stuff i've used in the past has stripped my skin and left it feeling dry, but this actually leaves my skin feelin soft without any irritation."
+C5_18_2:2,C5_18_2,skin reaction,Positive,Positive,0.4832,True,"a lot of the stuff i've used in the past has stripped my skin and left it feeling dry, but this actually leaves my skin feelin soft without any irritation."
+C5_18_3,C5_18_3,overall satisfaction,Positive,Positive,0.9995,True,"i even got my husband to start using it and he loves it, too."
+C5_19_1:1,C5_19_1,texture feel,Positive,Positive,0.9999,True,"gentle, soft and give a soft smooth touch to your skin, people qho have oily skin this is very good product moisturize your skin without overly oily touch."
+C5_19_1:2,C5_19_1,moisturizing effect,Positive,Positive,0.9998,True,"gentle, soft and give a soft smooth touch to your skin, people qho have oily skin this is very good product moisturize your skin without overly oily touch."
+C5_20_1,C5_20_1,overall satisfaction,Positive,Positive,0.9959,True,best foaming cleanser.
+C5_20_2,C5_20_2,overall satisfaction,Positive,Positive,0.9091,True,"if you have oily, sensitive, acne-prone skin, this is for you."
+C5_20_3,C5_20_3,cleansing performance,Positive,Positive,0.9997,True,it gets rid of all that buildup without stripping my face.
+C5_20_4:1,C5_20_4,skin reaction,Positive,Positive,0.9994,True,very gentle and foams well.
+C5_20_4:2,C5_20_4,texture feel,Positive,Positive,0.9998,True,very gentle and foams well.
+C5_20_5,C5_20_5,product value,Positive,Positive,0.9999,True,"also, great value."
+C3_1_1:1,C3_1_1,moisturizing effect,Negative,Negative,0.986,True,this stuff made me realize i don’t have an oily face - it was incredibly drying and made me look way older.
+C3_1_1:2,C3_1_1,skin reaction,Negative,Negative,0.9651,True,this stuff made me realize i don’t have an oily face - it was incredibly drying and made me look way older.
+C3_2_1,C3_2_1,overall satisfaction,Negative,Negative,0.9502,True,"i bought it after reading all the recommendations, however it's not as great as said."
+C3_2_2:1,C3_2_2,moisturizing effect,Negative,Negative,0.9981,True,"i have oily combination skin, it does dry the skin after using, and doesn't keep it matt long."
+C3_2_3,C3_2_3,texture feel,Negative,Negative,0.999,True,i don't like it's texture so much compared to other products.
+C3_2_4,C3_2_4,overall satisfaction,Neutral,Neutral,0.6759,True,"so basically it's ok, but there are better."
+C3_3_1:1,C3_3_1,overall satisfaction,Positive,Positive,0.995,True,"love this cleanser, but more than once the pump arrives not working correctly"
+C3_5_1,C3_5_1,overall satisfaction,Positive,Positive,0.996,True,"i love the foaming face wash, i purchased two!"
+C3_5_4,C3_5_4,product value,Negative,Negative,0.9997,True,"it’s going to be a no for me on value, since it will be a pain to dispense!"
+C3_6_1:1,C3_6_1,moisturizing effect,Positive,Positive,0.9999,True,"great for moisture, but never really felt like a clean finish"
+C3_6_1:2,C3_6_1,cleansing performance,Negative,Negative,0.9432,True,"great for moisture, but never really felt like a clean finish"
+C3_7_1,C3_7_1,skin reaction,Negative,Negative,0.9921,True,"unfortunately, this cleanser irritated my teenage daughter’s sensitive skin"
+C3_8_1,C3_8_1,skin reaction,Negative,Negative,0.9993,True,unfortunately this made my skin peel especially around my nose and chin.
+C3_8_4,C3_8_4,texture feel,Positive,Positive,0.9786,True,i loved the foam though.
+C3_8_5:1,C3_8_5,cleansing performance,Positive,Positive,0.8985,True,"made my skin feel clean, but tight and dry."
+C3_8_5:2,C3_8_5,moisturizing effect,Negative,Positive,0.4801,False,"made my skin feel clean, but tight and dry."
+C3_9_2,C3_9_2,overall satisfaction,Positive,Positive,0.989,True,she says it works good.
+C3_11_1,C3_11_1,ingredients quality,Negative,Negative,0.7107,True,it may be a great product otherwise but i'll never know because it contains 2 parabens.
+C3_12_1:1,C3_12_1,cleansing performance,Positive,Positive,0.9999,True,"it cleans well and leaves the skin feeling fresh, but i didn’t notice a big difference as i expected."
+C3_12_1:2,C3_12_1,overall satisfaction,Positive,Positive,0.9983,True,"it cleans well and leaves the skin feeling fresh, but i didn’t notice a big difference as i expected."
+C3_12_2:1,C3_12_2,texture feel,Positive,Positive,0.9998,True,"the texture is nice and it doesn’t dry out the skin too much, though it doesn’t really control oil as much as it claims."
+C3_12_2:2,C3_12_2,moisturizing effect,Positive,Positive,0.9427,True,"the texture is nice and it doesn’t dry out the skin too much, though it doesn’t really control oil as much as it claims."
+C3_12_3,C3_12_3,overall satisfaction,Neutral,Positive,0.9115,False,"good cleanser, but not a game changer"
+C3_13_1,C3_13_1,quantity and size,Negative,Neutral,0.8008,False,my bottle came only half way filled up.
+C3_14_1,C3_14_1,overall satisfaction,Neutral,Neutral,0.9961,True,my husband says it’s so so - not his favorite but he doesn’t hate it
+C3_15_3,C3_15_3,overall satisfaction,Neutral,Positive,0.9739,False,"for now, i use it once at night, and it seems fine."
+C3_15_4,C3_15_4,moisturizing effect,Negative,Negative,0.875,True,"the only issue is that if i don’t moisturize right after washing, my face gets really dry."
+C3_16_1:1,C3_16_1,moisturizing effect,Negative,Negative,0.9991,True,"it wasn't what i expectedthis cleanser promises to take care of the skin, but in my case it left it little moisturised and, worst of all, it caused me an acne outbreak after a few days of use."
+C3_16_1:2,C3_16_1,impact on acne and breakouts,Negative,Negative,0.9675,True,"it wasn't what i expectedthis cleanser promises to take care of the skin, but in my case it left it little moisturised and, worst of all, it caused me an acne outbreak after a few days of use."
+C3_16_2,C3_16_2,overall satisfaction,Negative,Positive,0.7314,False,i don't recommend it if you have sensitive or acne-prone skin.
+C3_16_3,C3_16_3,overall satisfaction,Negative,Positive,0.9618,False,i expected something softer and more effective.
+C3_17_1,C3_17_1,cleansing performance,Negative,Positive,0.9984,False,very gental but not thorough
+C3_18_2,C3_18_2,texture feel,Negative,Negative,0.9936,True,it’s just that it says foaming and there’s no foam it.
+C3_18_3,C3_18_3,overall satisfaction,Neutral,Neutral,0.9705,True,the only reason i give it three stars i’m not saying it’s bad product.
+C3_19_1:1,C3_19_1,overall satisfaction,Positive,Positive,0.9387,True,very excellent product bad packaging
+C3_20_1,C3_20_1,skin reaction,Positive,Neutral,0.9979,False,i like this face soap because it is soft and does not irritate my skin.
+C3_20_2,C3_20_2,cleansing performance,Negative,Neutral,0.5271,False,"however, i don't think i'm getting a big difference in my skin in terms of cleaning or reducing pores."
+C3_20_4,C3_20_4,overall satisfaction,Neutral,Positive,0.9298,False,"overall, it's a decent soap, but it's not the best if it's the best for my specific needs."
+C3_21_1,C3_21_1,overall satisfaction,Neutral,Positive,0.9968,False,good cleaner but has not helped me.
+C3_21_2,C3_21_2,overall satisfaction,Negative,Positive,0.7711,False,i’ve been using it for a little more than 6 months and haven’t seen a difference in my skin.
+C3_21_4,C3_21_4,quantity and size,Positive,Positive,0.6858,True,this bottle does last quite a while though.
+C3_21_5,C3_21_5,quantity and size,Positive,Neutral,0.8567,False,i’ve had it for 6 months and it’s about halfway gone.
+C3_22_1,C3_22_1,texture feel,Negative,Negative,0.9998,True,disappointed that it really doesn't foam at all.
+C3_22_2,C3_22_2,overall satisfaction,Negative,Positive,0.5187,False,will not be buying again.
+C3_23_1,C3_23_1,quantity and size,Positive,Positive,0.5061,True,a little goes a long way.
+C3_23_3,C3_23_3,cleansing performance,Negative,Positive,0.8123,False,it will take a little while to wash off.
+C3_24_1:1,C3_24_1,cleansing performance,Positive,Positive,0.9992,True,the cerave foaming facial cleanser is great for removing dirt and oil without feeling harsh.
+C3_24_1:2,C3_24_1,skin reaction,Positive,Neutral,0.5827,False,the cerave foaming facial cleanser is great for removing dirt and oil without feeling harsh.
+C3_24_2:1,C3_24_2,texture feel,Positive,Positive,0.9001,True,"it lathers well and leaves the skin feeling clean, but it can be a bit drying, especially for those with sensitive or dry skin."
+C3_24_2:2,C3_24_2,cleansing performance,Positive,Positive,0.9988,True,"it lathers well and leaves the skin feeling clean, but it can be a bit drying, especially for those with sensitive or dry skin."
+C3_24_2:3,C3_24_2,moisturizing effect,Negative,Positive,0.6587,False,"it lathers well and leaves the skin feeling clean, but it can be a bit drying, especially for those with sensitive or dry skin."
+C3_24_3,C3_24_3,overall satisfaction,Positive,Positive,0.9124,True,"overall, a solid choice for normal to oily skin types."
+C3_26_1,C3_26_1,overall satisfaction,Positive,Positive,0.9996,True,"nice product, but terrible dispenser pump."
+C3_26_2,C3_26_2,texture feel,Negative,Negative,0.7372,True,"very hard to pump, as the the soap is too thick."
+C3_27_1,C3_27_1,cleansing performance,Negative,Negative,0.9997,True,i don't feel like my skin gets clean with this.
+C3_27_2:1,C3_27_2,cleansing performance,Negative,Negative,0.9846,True,"i usually take off my makeup with a makeup remover then wash it but i feel like my skin is still dirty, i started breaking out after using this consecutively for two weeks."
+C3_27_2:2,C3_27_2,impact on acne and breakouts,Negative,Negative,0.9656,True,"i usually take off my makeup with a makeup remover then wash it but i feel like my skin is still dirty, i started breaking out after using this consecutively for two weeks."
+C3_27_3,C3_27_3,overall satisfaction,Negative,Positive,0.9582,False,didn't see any changes after two months.
+C3_28_1:1,C3_28_1,moisturizing effect,Positive,Positive,0.9993,True,"i’ve used it several times across 4 months, it makes the skin soft and smooth after using it, but the labels advise that you only apply it around your cheeks, so… it’s kind of inconvenient in that way.the scent is not disturbing, but it’s not great either."
+C3_29_1,C3_29_1,overall satisfaction,Positive,Positive,0.9289,True,"a really good skin care product, but not the best option for those with oily skin."
+C3_29_2:1,C3_29_2,moisturizing effect,Negative,Negative,0.5024,True,"after about a week, it dried out my face to the point of red blotches."
+C3_29_2:2,C3_29_2,skin reaction,Negative,Negative,0.7115,True,"after about a week, it dried out my face to the point of red blotches."
+C3_30_1,C3_30_1,quantity and size,Negative,Negative,0.6414,True,the cleanser has leaked in the box.
+C3_31_2,C3_31_2,ingredients quality,Negative,Negative,0.8115,True,"if you are prone to canker sores, studies have shown that products with sls in it should be avoided."
+C3_32_1,C3_32_1,impact on acne and breakouts,Negative,Negative,0.5875,True,can’t say much but i used it in combination with oil control moisturizing face cream but breaks me up so bad
+C3_33_1,C3_33_1,overall satisfaction,Negative,Positive,0.5064,False,it doesn’t work for oily face
+C3_34_1,C3_34_1,ingredients quality,Negative,Neutral,0.9995,False,used to love but after reading ingredients will find a new skincare wash
+C1_1_1,C1_1_1,texture feel,Negative,Negative,0.9155,True,does not foam at all.
+C1_1_2,C1_1_2,overall satisfaction,Negative,Positive,0.9964,False,it's essentially their lotion rebottled to make people think it's soap.
+C1_1_3,C1_1_3,cleansing performance,Negative,Negative,0.926,True,my skin has never felt less clean than after using this product.
+C1_1_4:1,C1_1_4,texture feel,Negative,Negative,0.9909,True,"i have a beard and even trying to lather it on my face with my beard there are zero bubbles--again, this is lotion bottled as facewash and is horrible quality."
+C1_1_4:2,C1_1_4,overall satisfaction,Negative,Positive,0.9867,False,"i have a beard and even trying to lather it on my face with my beard there are zero bubbles--again, this is lotion bottled as facewash and is horrible quality."
+C1_2_1,C1_2_1,overall satisfaction,Negative,Neutral,0.6375,False,"terrible, made my skin more oily."
+C1_2_3,C1_2_3,impact on acne and breakouts,Negative,Negative,0.9986,True,caused even worse breakouta
+C1_3_1,C1_3_1,overall satisfaction,Negative,Neutral,0.6661,False,didn't realize it was oil free and hate this formula.
+C1_3_2,C1_3_2,moisturizing effect,Negative,Positive,0.3802,False,makes my face feel so dry!
+C1_4_1,C1_4_1,texture feel,Negative,Negative,0.9627,True,product is not foaming.
+C1_4_2,C1_4_2,texture feel,Negative,Positive,0.9837,False,it is a thick gel with no lather.
+C1_4_3,C1_4_3,texture feel,Negative,Positive,0.9788,False,would not recommend if you like foaming cleaner.
+C1_4_4,C1_4_4,texture feel,Negative,Negative,0.9998,True,leaves a slimy feel on face.

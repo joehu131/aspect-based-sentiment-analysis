@@ -1,0 +1,9 @@
+{"aspect":"overall satisfaction","description":"Generic overall opinion and satisfaction with the product without focusing on a specific feature.","examples":["this cleanser is amazing","worst face wash I have ever used"]}
+{"aspect":"cleansing performance","description":"How well the cleanser removes dirt, sweat, oil, makeup residue, and impurities from the skin.","examples":["leaves my skin completely clean","does not remove all the oil"]}
+{"aspect":"moisturizing effect","description":"Hydration and moisture retention after cleansing, including whether the skin feels soft or dry.","examples":["leaves my skin hydrated","does not dry out my face"]}
+{"aspect":"ingredients quality","description":"Perceived quality, safety, and formulation of the ingredients used in the product.","examples":["clean ingredient list","contains harsh chemicals"]}
+{"aspect":"impact on acne and breakouts","description":"Effect on pimples, clogged pores, acne, and skin congestion.","examples":["helped clear my acne","caused me to break out"]}
+{"aspect":"texture feel","description":"Physical feel and consistency of the product during and after application.","examples":["silky smooth texture","feels thick and sticky"]}
+{"aspect":"skin reaction","description":"Any irritation, redness, burning, itching, or allergic reaction caused by the product.","examples":["made my skin burn","no irritation at all"]}
+{"aspect":"quantity and size","description":"Amount of product received and how long it lasts relative to expectations.","examples":["lasts a long time","the bottle is too small"]}
+{"aspect":"product value","description":"Perceived value for money based on price, performance, and longevity.","examples":["great value for the price","not worth the money"]}
