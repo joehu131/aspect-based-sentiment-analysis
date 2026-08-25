@@ -1,6 +1,6 @@
 # Aspect-Based Sentiment Analysis: DeBERTa-v3 vs. Llama 3.1 8B
 
-A benchmark comparing a task-specific fine-tuned Transformer against a local zero-shot LLM (Large Language Model) for Aspect Category Sentiment Classification (ACSC) on real-world skincare product reviews.
+A benchmark comparing a task-specific fine-tuned Transformer against a local zero-shot LLM (Large Language Model) for Aspect Category Sentiment Classification (ACSC) on real-world e-commerce product reviews.
 
 ## Overview
 
@@ -32,7 +32,7 @@ Evaluated on 162 annotated (sentence, aspect, sentiment) triplets across 198 rev
 
 ### Key Findings
 - **Generalist contextual reasoning**: Zero-shot Llama 3.1 8B resolved subtle aspect-specific negation, mixed sentiments within the same sentence, and neutral sentiments with significantly higher accuracy (+0.23 Macro F1 over DeBERTa).
-- **Specialist throughput advantage**: DeBERTa achieved over 35x higher inference throughput on local GPU (Graphics Processing Unit, RTX 3070), making it ideal for high-volume pipelines where lower latency and compute cost outweigh extreme edge-case accuracy.
+- **Specialist throughput advantage**: DeBERTa achieved over 35x higher inference throughput on local GPU (Graphics Processing Unit, RTX 3070), making it superior in high-volume pipelines where lower latency and compute cost outweigh accuracy.
 
 ## Project Structure
 
