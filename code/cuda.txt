@@ -1,9 +1,0 @@
-CUDA version (what your GPU driver supports): NVIDIA-SMI 591.59                 Driver Version: 591.59         CUDA Version: 13.1 
-CUDA Toolkit version: Cuda compilation tools, release 12.6, V12.6.20
->>> import torch
->>> print("CUDA available:", torch.cuda.is_available())
-CUDA available: True
->>> print("CUDA version:", torch.version.cuda)
-CUDA version: 13.0
->>> print("GPU:", torch.cuda.get_device_name(0))
-GPU: NVIDIA GeForce RTX 3070
